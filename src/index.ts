@@ -21,7 +21,7 @@ import rfc from 'run_func_serve/run_func_client';
 
 // set server
 rfc.init({
-    server: 'https://ooomap.com/rest-server'
+    server: 'https://om.com/rest-server'
 })
 
 // import { find, updateOne } from './mongoAtlas';
